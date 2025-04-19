@@ -28,7 +28,7 @@
 ; | 0x0002: INT0 vector         |           | 0x0101: array_ram[0] MSB    |
 ; | ...                         |           | ...                         |
 ; | 0x0040: Main program        |           | 0x0113: array_ram[9] MSB    |
-; | 0x005A: Bubble sort code    |           | 0x08FF: Stack bottom         |
+; | 0x005A: Bubble sort code    |           | 0x08FF: Stack bottom        |
 ; | 0x006F: array_flash data    |           +-----------------------------+
 ; +-----------------------------+
 
